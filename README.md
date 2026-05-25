@@ -24,6 +24,24 @@ Have an H-pattern shifter but playing a game that only supports sequential shift
 
 ---
 
+**Real-Time Steering Wheel to Driver Translation:**
+
+<img width="800" height="450" alt="shiftsense1sw" src="https://github.com/user-attachments/assets/866b3a65-05a1-429f-af29-d51aa886b42f" />
+
+**Smart Sequential Translation:**
+
+<img width="426" height="240" alt="shiftsense2test" src="https://github.com/user-attachments/assets/f9029d53-6479-4c73-86f6-7a6e05a96ed7" />
+
+
+**Calibration Wizard:**
+
+<img width="910" height="988" alt="image" src="https://github.com/user-attachments/assets/9485b71f-9ee7-4ae0-af52-6a6147cc362a" />
+
+**Output Settings:**
+
+<img width="916" height="984" alt="image" src="https://github.com/user-attachments/assets/6ca679c8-154f-4191-ad88-2db877efaa29" />
+
+--
 ## 🏗️ Architecture
 
 ShiftSense operates on a three-tier architecture:
